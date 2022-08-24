@@ -13,7 +13,7 @@ var PORT_END = process.argv[4];
 
 function showBanner()
 {
-    banner('N3TSC@NN3R', 'Simple port scanner in NODEJS developed by Saif Merchant\r\n Github: https://github.com/merchant862/\r\n\r\n Sample usage: node scanner [url OR ip] [PORT to start with] [PORT to end with]\r\n\r\n Example: node scanner 127.0.0.1 0 65536');
+    banner('N3TSC@NN3R', 'Simple port scanner in NODEJS developed by Saif Merchant\r\n Github: https://github.com/merchant862/portScannnerCLI/\r\n\r\n Sample usage: node scanner [url OR ip] [PORT to start with] [PORT to end with]\r\n\r\n Example: node scanner 127.0.0.1 0 65536');
 }    
 
 if
