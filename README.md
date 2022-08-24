@@ -1,10 +1,10 @@
-#Installation:
+# Installation:
 
 1) git clone https://github.com/merchant862/portScannnerCLI
 
 2) npm i or npm install
 
-#Usage:
+# Usage:
 
 node scanner [url OR ip] [PORT to start with] [PORT to end with]
 
